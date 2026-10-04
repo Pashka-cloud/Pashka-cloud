@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=200&section=header&text=Hi%20nya!%20%E2%9C%A7&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Data%20Engineer%20%C3%97%20DevOps%20%7C%20Fulltime%20silly%20cat&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,50:C9B6FF,100:B6F0E0&height=230&section=header&text=Hi%20nya!%20%E2%9C%A7&fontSize=56&fontColor=3D2C4D&fontAlignY=36&desc=Data%20Engineer%20%C3%97%20DevOps%20%7C%20Fulltime%20silly%20cat&descSize=18&descAlignY=58&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C9B6FF&center=true&vCenter=true&width=520&lines=Extract+snacks.+Transform+into+zoomies.+Load+naps.;sudo+pet+cat;kubectl+get+paws;It+works+on+my+meowchine+%E2%99%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9A7AE6&center=true&vCenter=true&width=640&height=40&repeat=true&lines=Extract+snacks.+Transform+into+zoomies.+Load+naps.;sudo+pet+cat;kubectl+get+paws;It+works+on+my+meowchine+%E2%99%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -47,6 +47,6 @@
 
 `git commit -m "meow"` ♡ `git push --force-with-lovee`
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,50:C9B6FF,100:B6F0E0&height=100&section=footer)
 
 </div>
